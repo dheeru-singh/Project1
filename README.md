@@ -8,19 +8,19 @@ Rooky is helping developers to succeed by making it easy to discover opportuniti
 
 ## APIs and Frameworks
 
- **Google Maps API  -** Detects and pans to current location. The form validates inputs such as the information provided in the form and the longitude and latitude of the pin.
+* **Google Maps API  -** Detects and pans to current location. The form validates inputs such as the information provided in the form and the longitude and latitude of the pin.
 
-**The Muse API -** Conducts a search for jobs that fit the query input. Returns a list of jobs in the selected city metro area. Displays the jobs on the web page.
+* **The Muse API -** Conducts a search for jobs that fit the query input. Returns a list of jobs in the selected city metro area. Displays the jobs on the web page.
 
-**New York Times API -** Returns relevant articles to the user.
+* **New York Times API -** Returns relevant articles to the user.
 
-**Bootstrap 4 -** Bootstrap was used to quickly stand up a responsive site displaying a main map with a user submitted form.
+* **Bootstrap 4 -** Bootstrap was used to quickly stand up a responsive site displaying a main map with a user submitted form.
 
-**JQuery -** JQuery was used to handle click events, dynamic behavior, and form value collection.
+* **JQuery -** JQuery was used to handle click events, dynamic behavior, and form value collection.
 
-**Firebase Real-Time Database -** Firebase is used to store user input and then referenced to display information to all users.
+* **Firebase Real-Time Database -** Firebase is used to store user input and then referenced to display information to all users.
 
-**GitHub Pages -** Our app was deployed using Github Pages.
+* **GitHub Pages -** Our app was deployed using Github Pages.
 
 ## Future Ideas:
 
