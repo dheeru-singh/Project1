@@ -28,8 +28,6 @@ Rooky is helping developers to succeed by making it easy to discover opportuniti
 
 * Direct image uploads using a capable database.
 
-* Make Rooky Mobile Responsive.
-
 * Integrate Meetup API into Google Maps.
 
 
