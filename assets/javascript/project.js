@@ -1,13 +1,13 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyCcuci5f0u5UU_Ejo8LjQVGxK5cZTPScws",
-  authDomain: "core-shard-245615.firebaseapp.com",
-  databaseURL: "https://core-shard-245615.firebaseio.com",
-  projectId: "core-shard-245615",
+  apiKey: "AIzaSyD1Yq0F8-oO_5wLMGK62Ntmuk9ZhN4FI3U",
+  authDomain: "codersbay-71a32.firebaseapp.com",
+  databaseURL: "https://codersbay-71a32.firebaseio.com",
+  projectId: "codersbay-71a32",
   storageBucket: "",
-  messagingSenderId: "239144941486",
-  appId: "1:239144941486:web:f89012a9b738e94c"
+  messagingSenderId: "603125589910",
+  appId: "1:603125589910:web:384352eda69cb2a1"
 };
-
+// Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 var database = firebase.database();
 
